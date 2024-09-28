@@ -1,18 +1,65 @@
 # Hi there, I'm Deepak 👋
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer and content creator with interests in:
+## 🚀 About Me
+## 👨‍💻 Professional Summary
+I’m Deepak, a highly motivated software developer focusing on building efficient and scalable solutions. 
+I have experience in  **web development**, and 
+I am passionate about sharing knowledge through content creation. I aim to contribute to meaningful projects and grow within the tech community.
 
-- **C++ programming** and tackling competitive programming challenges
-- **Ethical hacking** and exploring cybersecurity
-- Building projects such as my own **DNS server** and **SMTP server**
-- **Data modeling and training** with images and videos
-- Teaching students using **YouTube videos** on my channel, [Good Vibes Only](https://www.youtube.com/channel/UCFXx...)
-- Working on web development projects like **Student Journey Guide**, a platform for students to download previous exam papers.
 
-Feel free to explore my repositories and reach out if you want to collaborate or learn together!
+- **Competitive programming** (C++) 
+- **DNS & SMTP servers** development
+- **Data modeling** with images and videos
+
+
+## 📚 Projects
+- **Student Journey Guide**: A platform for students to download previous exam papers.
+- Building custom DNS and SMTP servers.
+- Working on data model training with images and videos.
+
+## 📫 Contact Me
+Feel free to explore my repositories and reach out for collaboration or learning! You can connect with me via:
+- [LinkedIn](www.linkedin.com/in/deepak-kumar-d3v3lop3r-)
+- Email: kumardeeepak392@gmail.com
+- [YouTube]([https://www.youtube.com/channel/UCFXx...](https://www.youtube.com/@DEEPAKKumar-nz9vc))
 
 ---
 “Learning never exhausts the mind.” – Leonardo da Vinci
+
+## 🛠️ Technologies & Tools
+![leetcode](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif)
+
+## 🚀 Featured Projects
+
+### [Student Journey Guide](https://github.com/Deepak-kumar-2023/Student-Journey-Guide)
+A platform for students to download previous question papers, built using **HTML**,**CSS**,**javascript**, **mongodb**, and 
+
+
+## 🧑‍💻 Skills
+
+### Languages
+- C++, java, javascript Python, SQL,
+
+### Web Development
+- HTML, CSS, JavaScript,
+
+### Tools & Technologies
+- Git, GitHub, Docker, Linux, Scrcpy, ffmpeg
+
+### Cybersecurity
+- Network security, DNS management
+- 
+
+## 🌱 Fun Fact
+I'm always experimenting with new tech, whether it is creating a server or trying out something quirky like streaming my mobile screen using Scrcpy!
+
+---
+## 🤝 Let's Connect!
+I’m always open to collaboration and learning new things. Feel free to reach out for discussions, projects, or just a friendly chat!
+
+
+“Strive not to be a success, but rather to be of value.” – Albert Einstein
+
 
 
 <!---
