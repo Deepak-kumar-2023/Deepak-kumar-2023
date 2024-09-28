@@ -1,15 +1,12 @@
 # Hi there, I'm Deepak 👋
 
 ## 🚀 About Me
-## 👨‍💻 Professional Summary
 I’m Deepak, a highly motivated software developer focusing on building efficient and scalable solutions. 
 I have experience in  **web development**, and 
 I am passionate about sharing knowledge through content creation. I aim to contribute to meaningful projects and grow within the tech community.
 
 
-- **Competitive programming** (C++) 
-- **DNS & SMTP servers** development
-- **Data modeling** with images and videos
+
 
 
 ## 📚 Projects
@@ -17,11 +14,7 @@ I am passionate about sharing knowledge through content creation. I aim to contr
 - Building custom DNS and SMTP servers.
 - Working on data model training with images and videos.
 
-## 📫 Contact Me
-Feel free to explore my repositories and reach out for collaboration or learning! You can connect with me via:
-- [LinkedIn](www.linkedin.com/in/deepak-kumar-d3v3lop3r-)
-- Email: kumardeeepak392@gmail.com
-- [YouTube]([https://www.youtube.com/channel/UCFXx...](https://www.youtube.com/@DEEPAKKumar-nz9vc))
+
 
 ---
 “Learning never exhausts the mind.” – Leonardo da Vinci
@@ -48,14 +41,21 @@ A platform for students to download previous question papers, built using **HTML
 
 ### Cybersecurity
 - Network security, DNS management
-- 
+
+- **Competitive programming** (C++) 
+- **DNS & SMTP servers** development
+- **Data modeling** with images and videos
 
 ## 🌱 Fun Fact
 I'm always experimenting with new tech, whether it is creating a server or trying out something quirky like streaming my mobile screen using Scrcpy!
 
+
 ---
 ## 🤝 Let's Connect!
 I’m always open to collaboration and learning new things. Feel free to reach out for discussions, projects, or just a friendly chat!
+Feel free to explore my repositories and reach out for collaboration or learning! You can connect with me via:
+- [LinkedIn](www.linkedin.com/in/deepak-kumar-d3v3lop3r-)
+- Email: kumardeeepak392@gmail.com
 
 
 “Strive not to be a success, but rather to be of value.” – Albert Einstein
